@@ -1,4 +1,4 @@
 # python_exercises
 
 
-'Hello World'
+Exercises from DigitalCrafts Coding Bootcamp
